@@ -1,0 +1,11 @@
+name: CustomKillMessages
+description: CustomKillMessages
+main: com.connorlinfoot.customkillmessages.CustomKillMessages
+version: 1.0
+authors: [Connor Linfoot]
+commands:
+  ckm:
+    description: CustomKillMessages command
+permissions:
+  customkillmssages.reload:
+    default: op
